@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mm5tUZA7a1MApu/Mi5IM+xc37Hn3l2blyMBq05kGjRDh2mSWNoXZ9WROOueJzSNSZOvvgmTXi/QY3X5LRi9lzA==",
+  "dgSpecHash": "CkjqeAmPUh3/2mMswYoHoX2vPXqn+B9TgamUtXObO9ZKUi0+AU8jE9pVEAUkeNfl4MnzkgxLxqpaovlcc0QGoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Models\\PetStore.Models.csproj",
+  "projectFilePath": "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Models\\PetStore.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DjanerChoban\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\DjanerChoban\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

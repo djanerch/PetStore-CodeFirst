@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mXhLIUiEstBQvguUksmDbTyLxsgYoWqBuwkcVfKfDirWOO4yS7a+clJqC070eHxadMHiYphHXbDw2AcGhumhgA==",
+  "dgSpecHash": "YCP/LKJmHUWJrTpgJyJv2mMjSmlaa8md6ep2EophJ+FKCdsif9lRXn05YBNwmhnSPke6HEa/3s6myQuB8lxObw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Common\\PetStore.Common.csproj",
+  "projectFilePath": "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Common\\PetStore.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Data\\PetStore.Data.csproj": {}
+    "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Data\\PetStore.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Common\\PetStore.Common.csproj": {
+    "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Common\\PetStore.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Common\\PetStore.Common.csproj",
+        "projectUniqueName": "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Common\\PetStore.Common.csproj",
         "projectName": "PetStore.Common",
-        "projectPath": "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Common\\PetStore.Common.csproj",
+        "projectPath": "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Common\\PetStore.Common.csproj",
         "packagesPath": "C:\\Users\\DjanerChoban\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Common\\obj\\",
+        "outputPath": "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DjanerChoban\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Data\\PetStore.Data.csproj": {
+    "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Data\\PetStore.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Data\\PetStore.Data.csproj",
+        "projectUniqueName": "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Data\\PetStore.Data.csproj",
         "projectName": "PetStore.Data",
-        "projectPath": "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Data\\PetStore.Data.csproj",
+        "projectPath": "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Data\\PetStore.Data.csproj",
         "packagesPath": "C:\\Users\\DjanerChoban\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Data\\obj\\",
+        "outputPath": "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DjanerChoban\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,11 +82,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Common\\PetStore.Common.csproj": {
-                "projectPath": "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Common\\PetStore.Common.csproj"
+              "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Common\\PetStore.Common.csproj": {
+                "projectPath": "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Common\\PetStore.Common.csproj"
               },
-              "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Models\\PetStore.Models.csproj": {
-                "projectPath": "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Models\\PetStore.Models.csproj"
+              "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Models\\PetStore.Models.csproj": {
+                "projectPath": "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Models\\PetStore.Models.csproj"
               }
             }
           }
@@ -141,14 +141,14 @@
         }
       }
     },
-    "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Models\\PetStore.Models.csproj": {
+    "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Models\\PetStore.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Models\\PetStore.Models.csproj",
+        "projectUniqueName": "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Models\\PetStore.Models.csproj",
         "projectName": "PetStore.Models",
-        "projectPath": "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Models\\PetStore.Models.csproj",
+        "projectPath": "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Models\\PetStore.Models.csproj",
         "packagesPath": "C:\\Users\\DjanerChoban\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Models\\obj\\",
+        "outputPath": "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DjanerChoban\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -165,8 +165,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Common\\PetStore.Common.csproj": {
-                "projectPath": "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Common\\PetStore.Common.csproj"
+              "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Common\\PetStore.Common.csproj": {
+                "projectPath": "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Common\\PetStore.Common.csproj"
               }
             }
           }

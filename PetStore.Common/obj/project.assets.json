@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Common\\PetStore.Common.csproj",
+      "projectUniqueName": "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Common\\PetStore.Common.csproj",
       "projectName": "PetStore.Common",
-      "projectPath": "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Common\\PetStore.Common.csproj",
+      "projectPath": "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Common\\PetStore.Common.csproj",
       "packagesPath": "C:\\Users\\DjanerChoban\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DjanerChoban\\source\\repos\\PetStore\\PetStore.Common\\obj\\",
+      "outputPath": "D:\\PetStore\\PetStore-CodeFirst\\PetStore.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DjanerChoban\\AppData\\Roaming\\NuGet\\NuGet.Config",
