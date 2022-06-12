@@ -1,0 +1,16 @@
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Models\bin\Debug\netcoreapp3.1\PetStore.Models.deps.json
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Models\bin\Debug\netcoreapp3.1\PetStore.Models.runtimeconfig.json
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Models\bin\Debug\netcoreapp3.1\PetStore.Models.runtimeconfig.dev.json
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Models\bin\Debug\netcoreapp3.1\PetStore.Models.dll
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Models\bin\Debug\netcoreapp3.1\PetStore.Models.pdb
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Models\bin\Debug\netcoreapp3.1\PetStore.Common.dll
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Models\bin\Debug\netcoreapp3.1\PetStore.Common.pdb
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Models\obj\Debug\netcoreapp3.1\PetStore.Models.csproj.AssemblyReference.cache
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Models\obj\Debug\netcoreapp3.1\PetStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Models\obj\Debug\netcoreapp3.1\PetStore.Models.AssemblyInfoInputs.cache
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Models\obj\Debug\netcoreapp3.1\PetStore.Models.AssemblyInfo.cs
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Models\obj\Debug\netcoreapp3.1\PetStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Models\obj\Debug\netcoreapp3.1\PetStore.Models.csproj.CopyComplete
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Models\obj\Debug\netcoreapp3.1\PetStore.Models.dll
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Models\obj\Debug\netcoreapp3.1\PetStore.Models.pdb
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Models\obj\Debug\netcoreapp3.1\PetStore.Models.genruntimeconfig.cache

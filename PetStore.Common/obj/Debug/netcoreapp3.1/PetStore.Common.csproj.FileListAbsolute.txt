@@ -1,0 +1,10 @@
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Common\bin\Debug\netcoreapp3.1\PetStore.Common.deps.json
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Common\bin\Debug\netcoreapp3.1\PetStore.Common.dll
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Common\bin\Debug\netcoreapp3.1\PetStore.Common.pdb
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Common\obj\Debug\netcoreapp3.1\PetStore.Common.csproj.AssemblyReference.cache
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Common\obj\Debug\netcoreapp3.1\PetStore.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Common\obj\Debug\netcoreapp3.1\PetStore.Common.AssemblyInfoInputs.cache
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Common\obj\Debug\netcoreapp3.1\PetStore.Common.AssemblyInfo.cs
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Common\obj\Debug\netcoreapp3.1\PetStore.Common.csproj.CoreCompileInputs.cache
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Common\obj\Debug\netcoreapp3.1\PetStore.Common.dll
+C:\Users\DjanerChoban\source\repos\PetStore\PetStore.Common\obj\Debug\netcoreapp3.1\PetStore.Common.pdb
