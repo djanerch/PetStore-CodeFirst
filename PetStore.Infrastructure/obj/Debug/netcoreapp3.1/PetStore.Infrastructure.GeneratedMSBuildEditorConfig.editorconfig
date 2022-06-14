@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = PetStore.Infrastructure
+build_property.ProjectDir = D:\PetStore\PetStore-CodeFirst\PetStore.Models\
